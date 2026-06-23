@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-	cout << "Main function";
+	cout << "add feature branch and get the Main function";
 }
